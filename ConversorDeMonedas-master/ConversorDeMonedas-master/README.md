@@ -27,13 +27,7 @@ Este proyecto consiste en el desarrollo de una aplicación de consola en **Java*
 ### **Requisitos previos**
 - Java 17 o superior instalado (Puede descargarse desde [aquí](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)).
 - **Gson Library**: Biblioteca para manejar JSON. (**ya viene dentro del repositorio**)
-#### **Recomendaciones**
-- Instalar [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
-- Crear un nuevo proyecto del siguiente tipo: **Empty Project**
-- Clonar el repositorio desde la raíz del proyecto 
-```
-git clone https://github.com/amquintero6/ConversorDeMonedas-master.git
-```
+
 
 ## 🛠️ **Tecnologías utilizadas**
 - [**Java 17**](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html): Lenguaje principal del proyecto.
