@@ -32,7 +32,7 @@ Este proyecto consiste en el desarrollo de una aplicación de consola en **Java*
 - Crear un nuevo proyecto del siguiente tipo: **Empty Project**
 - Clonar el repositorio desde la raíz del proyecto 
 ```
-git clone https://github.com/WiscasHubble/ConversorDeMonedas.git
+git clone https://github.com/amquintero6/ConversorDeMonedas-master.git
 ```
 
 ## 🛠️ **Tecnologías utilizadas**
@@ -40,11 +40,3 @@ git clone https://github.com/WiscasHubble/ConversorDeMonedas.git
 - [**ExchangeRate-API**](https://www.exchangerate-api.com/): Fuente de tasas de cambio actualizadas.
 - [**Gson**](https://mvnrepository.com/artifact/com.google.code.gson/gson): Biblioteca para manejar datos JSON obtenidos desde la API.
 
-## 🤝 **Contribuciones**
-
-¡Contribuciones son bienvenidas! Si deseas colaborar:
-
-1. Haz un fork del repositorio.
-2. Crea una rama con tu mejora: `git checkout -b mejora-nueva-funcionalidad`.
-3. Realiza un commit: `git commit -m "Añadir nueva funcionalidad"`.
-4. Envía un pull request.
