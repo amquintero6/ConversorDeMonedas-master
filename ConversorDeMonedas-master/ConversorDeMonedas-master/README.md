@@ -1,6 +1,6 @@
 # 🪙 Conversor de Monedas
 
-Este proyecto consiste en el desarrollo de una aplicación de consola en **Java** que permite realizar conversiones de divisas en tiempo real utilizando una **API externa de tasas de cambio**. Fue desarrollado como parte de un curso impartido por **AluraLatam**, con el objetivo de aprender a implementar conceptos fundamentales de Java, integración con servicios externos y buenas prácticas en programación.
+Este proyecto consiste en una aplicación de consola desarrollada en Java, diseñada para realizar conversiones de divisas en tiempo real a través de una API externa de tasas de cambio. Fue creado como parte de un curso impartido en el programa *Alura + Oracle One*, con el propósito de aprender e implementar conceptos clave de Java, integración con servicios externos y prácticas de programación de calidad.
 
 ## 🚀 **Características principales**
 
